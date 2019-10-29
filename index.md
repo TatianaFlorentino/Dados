@@ -1,5 +1,7 @@
 ## Minha Jornada de Apreendizados
 
+No início da minha carreira trabalhei com programação java e .NET.
+
 Tenho uma boa experiências no entendimento e necessidades de negócio como analista funcional e Product Owner com modelos interativos e agéis( SCRUM, KANBAN),tenho uma boa habilidade de fazer negociação com outras áreas.
 
 Desde 2016 venho adquirindo conhecimentos básicos em Big data, porém já trabalhei com desenvolvimento de BI na TecBan criando DataMining para banco Itaú e também na Yandeh.
@@ -8,7 +10,7 @@ Tenho boa bagagem e experiência em modelagem de dados transacional e dimensiona
 
 Propósito de repositório é revisar alguns conteúdos e apreender novos, organizando todo esse apreendizado.
 
-Meu Linkedin pode oferecer maiores informações sobre minha trajetória profissional e cursos
+Meu Linkedin pode oferecer maiores informações sobre minha trajetória profissional e cursos, formação
 [LINKEDIN] (https://www.linkedin.com/in/tatiana-florentino-52179010/)
 
 ## Competências: Além do pensamento sistêmico, possuo uma boa capacidade analítico e muita vontade de apreender.
