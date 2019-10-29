@@ -1,37 +1,60 @@
 ## Minha Jornada de Apreendizados
 
-You can use the [editor on GitHub](https://github.com/TatianaFlorentino/Dados/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Tenho uma boa experiências no entendimento e necessidades de negócio como analista funcional, reqquisitos, Product Owner com metodologia tradicional e metodologia agéis( SCRUM, KANBAN),tenho uma boa habilidade de fazer negociação com outras áreas.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Desde 2016 venho adquirindo conhecimentos básicos em Big data, porém já trabalhei com desenvolvimento de BI na TecBan criando DataMining para banco Itaú e também na Yandeh.
+
+Tenho boa bagagem e experiência em modelagem de dados transacional e dimensional, SQL.
+
+propósito de repositório e wiki é revisar alguns conteúdos e apreender novos.
+
+Meu Linkedin pode oferecer maiores informações sobre minha trajetória profissional e cursos
+[editor on GitHub](https://www.linkedin.com/in/tatiana-florentino-52179010/) to maintain and preview the content for your website in Markdown files.
+
+
+### EXCEL
+
+Fórmulas, Funções, Função SOMA, Função CONSE, Função SE, SES, SOMASE, SOMASES, Matrizes
+
+Maiores detalhes e exemplos desse estudo[No meu repositório do GitHub, planilha](https://github.com/TatianaFlorentino/Dados/).
+
+### R ( Treinando Estatística ) 
+
+- Estatística 
+- Probabilidade
+- R
+
+
+```markdown
+Syntaxe código SQL no bloco abaixo:
 
 ### SQL
+
+1. Basic SQL 
+2. SQL Joins 
+3. SQL Agregação 
+4. SQL Subqueries & Temporary Tables 
+5. SQL Data Cleaning 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Syntaxe comuns SQL 
 
-# Header 1
-## Header 2
-### POWER BI
 
-- Bulleted
-- List
+### Visualização de Dados Power BI
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+**Power BI** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Google Analytics
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TatianaFlorentino/Dados/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Contatos
+### XXXXX
 
 
