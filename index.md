@@ -9,16 +9,16 @@ Tenho boa bagagem e experiência em modelagem de dados transacional e dimensiona
 Propósito de repositório é revisar alguns conteúdos e apreender novos, organizando todo esse apreendizado.
 
 Meu Linkedin pode oferecer maiores informações sobre minha trajetória profissional e cursos
-[LINKEDIN](https://www.linkedin.com/in/tatiana-florentino-52179010/)
+[LINKEDIN] (https://www.linkedin.com/in/tatiana-florentino-52179010/)
 
-Competências: boa capacidade analitica
+Competências: boa capacidade analitica, muita vontade de apreender.
 
 
 ### EXCEL
 
 Fórmulas, Funções, Função SOMA, Função CONSE, Função SE, SES, SOMASE, SOMASES, Matrizes
 
-Maiores detalhes e exemplos desse estudo[No meu repositório do GitHub, planilha](https://github.com/TatianaFlorentino/Dados/).
+Maiores detalhes e exemplos desse estudo [No meu repositório do GitHub, planilha](https://github.com/TatianaFlorentino/Dados/).
 
 ### R ( Treinando Estatística ) 
 
@@ -26,8 +26,8 @@ Maiores detalhes e exemplos desse estudo[No meu repositório do GitHub, planilha
 - Probabilidade
 - R
 
-```markdown
-Syntaxe código SQL no bloco abaixo:
+Maiores detalhes e exemplos desse estudo [No meu repositório do GitHub, planilha](https://github.com/TatianaFlorentino/Dados/).
+
 
 ### SQL
 1. Basic SQL 
@@ -36,31 +36,48 @@ Syntaxe código SQL no bloco abaixo:
 4. SQL Subqueries & Temporary Tables 
 5. SQL Data Cleaning 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```markdown
+1. Basic SQL
+
+
+
+
+2. SQL Joins 
+
+
 
 ```markdown
-Syntaxe comuns SQL 
+3. SQL Agregação 
 
 
-### Visualização de Dados Power BI
+
+4. SQL Subqueries & Temporary Tables 
 
 
-**Power BI** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+5. SQL Data Cleaning 
+ 
+
+
 ```
 
 
 ### Visualização de Dados
+Conteúdo desses exemplos de Análise de Varejo, contém imagens de relatório e um conjunto de dados que analisa os dados de vendas no varejo de itens vendidos em várias lojas e regiões. As métricas comparam o desempenho deste ano ao do ano passado em vendas, unidades, margem bruta e variação, assim como uma análise da nova loja.
 
-## Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TatianaFlorentino/Dados/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Power BI**
+_Os arquivos estão `arquivo. pbix` 
 
-    ## Tableau
-
-    ### Google Analytics
+[Maiores exemplos](https://github.com/TatianaFlorentino/Dados/) e ![Image](https://github.com/TatianaFlorentino/Dados/)
 
 
-### Design Thinkinks 
+### Google Analytics 
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TatianaFlorentino/Dados/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+    
+
+### Inovação & Design Thinkinks 
 
 - Mindset voltado à inovação
 - Dinâmicas em Grupo para co-criação e alinhamento
