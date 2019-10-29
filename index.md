@@ -11,14 +11,14 @@ Propósito de repositório é revisar alguns conteúdos e apreender novos, organ
 Meu Linkedin pode oferecer maiores informações sobre minha trajetória profissional e cursos
 [LINKEDIN] (https://www.linkedin.com/in/tatiana-florentino-52179010/)
 
-Competências: boa capacidade analitica, muita vontade de apreender.
+## Competências: Além do pensamento sistêmico, possuo uma boa capacidade analítico e muita vontade de apreender.
 
 
 ### EXCEL
 
 Fórmulas, Funções, Função SOMA, Função CONSE, Função SE, SES, SOMASE, SOMASES, Matrizes
 
-Maiores detalhes e exemplos desse estudo [No meu repositório do GitHub, planilha](https://github.com/TatianaFlorentino/Dados/).
+Maiores detalhes e exemplos da minha retomada aos estudos estão sobre esse tema [No meu repositório do GitHub, planilha](https://github.com/TatianaFlorentino/Dados/).
 
 ### R ( Treinando Estatística ) 
 
@@ -26,8 +26,7 @@ Maiores detalhes e exemplos desse estudo [No meu repositório do GitHub, planilh
 - Probabilidade
 - R
 
-Maiores detalhes e exemplos desse estudo [No meu repositório do GitHub, planilha](https://github.com/TatianaFlorentino/Dados/).
-
+Maiores detalhes e exemplos desse estudo [No meu repositório do GitHub, R](https://github.com/TatianaFlorentino/Dados/).
 
 ### SQL
 1. Basic SQL 
@@ -46,7 +45,6 @@ Maiores detalhes e exemplos desse estudo [No meu repositório do GitHub, planilh
 
 
 
-```markdown
 3. SQL Agregação 
 
 
@@ -61,20 +59,26 @@ Maiores detalhes e exemplos desse estudo [No meu repositório do GitHub, planilh
 
 ```
 
-
 ### Visualização de Dados
 Conteúdo desses exemplos de Análise de Varejo, contém imagens de relatório e um conjunto de dados que analisa os dados de vendas no varejo de itens vendidos em várias lojas e regiões. As métricas comparam o desempenho deste ano ao do ano passado em vendas, unidades, margem bruta e variação, assim como uma análise da nova loja.
+
+![Image](https://github.com/TatianaFlorentino/Dados/)
+
 
 **Power BI**
 _Os arquivos estão `arquivo. pbix` 
 
-[Maiores exemplos](https://github.com/TatianaFlorentino/Dados/) e ![Image](https://github.com/TatianaFlorentino/Dados/)
+[Maiores detalhes desses exemplos Power BI](https://github.com/TatianaFlorentino/Dados/) 
 
 
 ### Google Analytics 
+Contéudo desses exemplos está associado as métricas de sucesso de um site ou app.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TatianaFlorentino/Dados/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Relatório de Público
+- Relatório de Aquisição
+- Relatório de Comportamento
 
+As imagens estão no [repositório](https://github.com/TatianaFlorentino/Dados/).
     
 
 ### Inovação & Design Thinkinks 
@@ -87,5 +91,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 - Crazy Eight
 - Mapa de empatia
 - Priorização de ideias
-
 
