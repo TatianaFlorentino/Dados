@@ -1,19 +1,24 @@
-## Minha Jornada de Apreendizados
+## Minha Jornada
 
-No início da minha carreira trabalhei com programação java e .NET.
+No início da minha carreira trabalhei com programação java e .NET e consultas SQL, T-SQL.
 
-Tenho uma boa experiências no entendimento e necessidades de negócio como analista funcional e Product Owner com modelos interativos e agéis( SCRUM, KANBAN),tenho uma boa habilidade de fazer negociação com outras áreas.
+Tenho uma boa experiências no entendimento e necessidades de negócio como analista funcional e Product Owner com modelos interativos e metodologias agéis( SCRUM, KANBAN), tenho uma boa habilidade de fazer negociação com outras áreas.
 
-Desde 2016 venho adquirindo conhecimentos básicos em Big data, porém já trabalhei com desenvolvimento de BI na TecBan criando DataMining para banco Itaú e também na Yandeh.
+Desde 2016 venho adquirindo conhecimentos básicos em Big data, porém já trabalhei com desenvolvimento de BI na TecBan criando DataMining para banco Itaú e algumas práticas com relatório excel.
 
-Tenho boa bagagem e experiência em modelagem de dados transacional e dimensional, SQL.
+Tenho boa bagagem e experiência em modelagem de dados transacional e dimensional, SQL e T-SQL.
 
-Propósito de repositório é revisar alguns conteúdos e apreender novos, organizando todo esse apreendizado.
+Propósito desse repositório é revisar alguns conteúdos e apreender novos, organizando todo esse aprendizado.
 
-Meu Linkedin pode oferecer maiores informações sobre minha trajetória profissional e cursos, formação
+Meu Linkedin, pode oferecer maiores informações sobre minha trajetória profissional, formação e cursos
 [LINKEDIN] (https://www.linkedin.com/in/tatiana-florentino-52179010/)
 
-## Competências: Além do pensamento sistêmico, possuo uma boa capacidade analítico e muita vontade de apreender.
+### Competências
+Além do pensamento sistêmico, possuo uma boa capacidade analítica e muita vontade de apreender.
+
+### Exemplos
+Conteúdo dos meus exemplos estarão associado Análise do Varejo, conterá imagens de relatórios, com conjunto de dados que analisa os dados de vendas no varejo de itens vendidos em várias lojas e regiões. As métricas comparam o desempenho deste ano ao do ano passado em vendas, unidades, margem bruta e variação, assim como uma análise de novas lojas.
+
 
 
 ### EXCEL
