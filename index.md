@@ -67,15 +67,32 @@ Maiores detalhes e exemplos desse estudo [No meu repositório do GitHub, R](http
 ```
 
 ### Visualização de Dados
-Conteúdo desses exemplos de Análise de Varejo, contém imagens de relatório e um conjunto de dados que analisa os dados de vendas no varejo de itens vendidos em várias lojas e regiões. As métricas comparam o desempenho deste ano ao do ano passado em vendas, unidades, margem bruta e variação, assim como uma análise da nova loja.
-
-![Image](https://github.com/TatianaFlorentino/Dados/)
-
 
 **Power BI**
-_Os arquivos estão `arquivo. pbix` 
+
+1 - Leitura de Dados de diversas fontes 
+2 - Dashboards Diversos
+3 - Mobile
+_Os arquivos estão `arquivo. pbix`
 
 [Maiores detalhes desses exemplos Power BI](https://github.com/TatianaFlorentino/Dados/) 
+
+Mapa de calor das principais ferramentas de visualização.
+![Image](https://github.com/TatianaFlorentino/Dados/)
+ 
+
+**Tableau***
+Apresentação e recuperando ambiente
+Modelagem
+Planilhas
+Mais sobre planilhas
+Dashboard
+Análise completa, Tableau Public
+
+[Maiores detalhes desses exemplos Tableau](https://github.com/TatianaFlorentino/Dados/)
+
+### Storytelling com dados
+
 
 
 ### Google Analytics 
