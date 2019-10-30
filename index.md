@@ -70,7 +70,7 @@ Maiores detalhes e exemplos desse estudo [No meu repositório do GitHub, R](http
 
 1. Leitura de Dados de diversas fontes 
 2. Dashboards Diversos
-3. Mobile
+3. Funções DAX 
 _Os arquivos estão `arquivo. pbix`
 
 [Maiores detalhes desses exemplos Power BI](https://github.com/TatianaFlorentino/Dados/) 
