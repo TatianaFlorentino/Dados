@@ -19,8 +19,6 @@ Além do pensamento sistêmico, possuo uma boa capacidade analítica e muita von
 ### Exemplos
 Conteúdo dos meus exemplos estarão associado Análise do Varejo, conterá imagens de relatórios, com conjunto de dados que analisa os dados de vendas no varejo de itens vendidos em várias lojas e regiões. As métricas comparam o desempenho deste ano ao do ano passado em vendas, unidades, margem bruta e variação, assim como uma análise de novas lojas.
 
-
-
 ### EXCEL
 
 Fórmulas, Funções, Função SOMA, Função CONSE, Função SE, SES, SOMASE, SOMASES, Matrizes
@@ -70,9 +68,9 @@ Maiores detalhes e exemplos desse estudo [No meu repositório do GitHub, R](http
 
 **Power BI**
 
-1 - Leitura de Dados de diversas fontes 
-2 - Dashboards Diversos
-3 - Mobile
+1. Leitura de Dados de diversas fontes 
+2. Dashboards Diversos
+3. Mobile
 _Os arquivos estão `arquivo. pbix`
 
 [Maiores detalhes desses exemplos Power BI](https://github.com/TatianaFlorentino/Dados/) 
@@ -82,16 +80,16 @@ Mapa de calor das principais ferramentas de visualização.
  
 
 **Tableau***
-Apresentação e recuperando ambiente
-Modelagem
-Planilhas
-Mais sobre planilhas
-Dashboard
-Análise completa, Tableau Public
+1. Apresentação e recuperando ambiente
+2. Modelagem
+3. Planilhas
+4. Mais sobre planilhas
+5. Dashboard
+5. Análise completa, Tableau Public
 
 [Maiores detalhes desses exemplos Tableau](https://github.com/TatianaFlorentino/Dados/)
 
-### Storytelling com dados
+### Contando história / Storytelling com dados
 
 
 
