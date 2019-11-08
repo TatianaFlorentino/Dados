@@ -31,6 +31,11 @@ Maiores detalhes e exemplos da minha retomada aos estudos estão sobre esse tema
 - Probabilidade
 - R
 
+### Python
+Fundamentos com python conceitos básicos (variavéis, condicionais, loop, funções), como extrair informações xml, json, banco de dados relacional e não relacional
+
+Maiores detalhes e exemplos desse estudo [No meu repositório do GitHub, python](https://gist.github.com/TatianaFlorentino/9de6c652501ea10817be569ba7d9e359).
+
 Maiores detalhes e exemplos desse estudo [No meu repositório do GitHub, R](https://github.com/TatianaFlorentino/Dados/).
 
 ### SQL
@@ -101,6 +106,7 @@ Contéudo desses exemplos está associado as métricas de sucesso de um site ou 
 - Relatório de Comportamento
 
 As imagens estão no [repositório](https://github.com/TatianaFlorentino/Dados/).
+
     
 
 ### Inovação & Design Thinkinks 
