@@ -30,13 +30,14 @@ Maiores detalhes e exemplos da minha retomada aos estudos estão sobre esse tema
 - Estatística 
 - Probabilidade
 - R
+Maiores detalhes e exemplos desse estudo [No meu repositório do GitHub, R](https://github.com/TatianaFlorentino/Dados/).
 
 ### Python
 Fundamentos com python conceitos básicos (variavéis, condicionais, loop, funções), como extrair informações xml, json, banco de dados relacional e não relacional
 
 Maiores detalhes e exemplos desse estudo [No meu repositório do GitHub, python](https://gist.github.com/TatianaFlorentino/9de6c652501ea10817be569ba7d9e359).
 
-Maiores detalhes e exemplos desse estudo [No meu repositório do GitHub, R](https://github.com/TatianaFlorentino/Dados/).
+
 
 ### SQL
 1. Basic SQL 
