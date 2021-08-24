@@ -1,16 +1,8 @@
-# Coleção de artigos e estudos sobre Dados, Datascience, ML
+# People Analytics
 
 
-Tópicos
 
-* SQL
-* NoSQL com MongoDB
-* Cloud para BigData
-* DataScience para Negócios
-* Noções de Python 
-* Conceitos Estatística 
-* Noções Machine Learning
-* Projetos de referências
-* Exercícios
-* Desafios
+![Screenshot](https://github.com/TatianaFlorentino/trajetoriads/blob/main/img/RH.jpeg)
+
+
 
