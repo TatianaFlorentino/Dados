@@ -25,7 +25,6 @@ As similaridades dos comentários desse dataset foram obtidas por meio de um pro
 ![image](https://github.com/TatianaFlorentino/Dados/assets/41309689/ce54fb84-b096-4802-9da3-2467fb51cfab)
 
 
-Código feito na linguagem R 
-[Link:](https://github.com/TatianaFlorentino/scriptR/blob/master/TextMining_Oficial.R)
+[Código feito na linguagem R](https://github.com/TatianaFlorentino/scriptR/blob/master/TextMining_Oficial.R)
 
 
