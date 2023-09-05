@@ -26,6 +26,6 @@ As similaridades dos comentários desse dataset foram obtidas por meio de um pro
 
 
 Código feito na linguagem R 
-Link abaixo: 
+[Link:](https://github.com/TatianaFlorentino/scriptR/blob/master/TextMining_Oficial.R)
 
 
